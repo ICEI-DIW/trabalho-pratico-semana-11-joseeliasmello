@@ -4,10 +4,10 @@ Nessa etapa, vamos evoluir o projeto anterior e contemplar um ambiente de desenv
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Jose Elias Mello Oliveira 
+- Matricula:890137
+- Proposta de projeto escolhida:Site de tours
+- Breve descrição sobre seu projeto: Site de tours sobre o Rio de Janeiro
 
 **Print do teste da API com visualização do JSON**
 
