@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    color: black;
+    text-align: center;
+  }
+  
+  header, .topo, footer {
+    background-color: blueviolet;
+  }
+  
+  .logo {
+    font-family: fantasy;
+    padding: 10px;
+    color: white;
+  }
+  
+  .topo form input,
+  .topo form select,
+  .topo form button {
+    border-radius: 10px;
+  }
+  
+  .texto-do-instagram a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .carousel-caption {
+    bottom: 60% !important;
+    transform: translateY(50%);
+  }
+  
+  .carousel-caption.bg-dark {
+    background-color: rgba(138, 43, 226, 0.7) !important;
+  }
+  
+  .card-custom {
+    background-color: blueviolet;
+    color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .card-custom:hover {
+    transform: scale(1.05);
+  }
+  
+  footer {
+    font-size: small;
+    padding: 10px;
+  }
+  
+  .alinhamento {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .textodetalhe {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #333;
+  }
+  
+  .thumb-small {
+    width: 100px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.2s;
+  }
+  
+  .thumb-small:hover {
+    transform: scale(1.1);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  }
+  
