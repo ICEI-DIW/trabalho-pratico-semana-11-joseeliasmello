@@ -1,18 +1,37 @@
 {
-  "usuarios": [
+  "destinos": [
     {
-      "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
+      "id": 0,
+      "titulo": "Copacabana",
+      "descricaoCurta": "Descubra a famosa praia de Copacabana com opções de lazer, cultura e gastronomia.",
+      "descricaoLonga": "Copacabana é uma das praias mais icônicas do mundo, conhecida por seu calçadão em ondulações de pedra portuguesa, quiosques e vida noturna vibrante.",
+      "imagens": [
+        "https://picsum.photos/600/400?random=1",
+        "https://picsum.photos/100/80?random=11",
+        "https://picsum.photos/100/80?random=12"
+      ]
     },
     {
-      "id": "ec37c83d-4b7f-458d-9e10-3fda7d37cd3e",
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
+      "id": 1,
+      "titulo": "Cristo Redentor",
+      "descricaoCurta": "Visite o Cristo Redentor, uma das sete maravilhas do mundo moderno.",
+      "descricaoLonga": "O Cristo Redentor é a estátua monumental de Jesus Cristo no topo do Corcovado, com vista panorâmica incrível do Rio de Janeiro.",
+      "imagens": [
+        "https://picsum.photos/600/400?random=2",
+        "https://picsum.photos/100/80?random=21",
+        "https://picsum.photos/100/80?random=22"
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Pão de Açúcar",
+      "descricaoCurta": "Aprecie uma das vistas mais impressionantes do Rio de Janeiro.",
+      "descricaoLonga": "O bondinho do Pão de Açúcar liga a Praia Vermelha ao Morro da Urca e ao Pão de Açúcar, oferecendo vistas espetaculares da Baía de Guanabara.",
+      "imagens": [
+        "https://picsum.photos/600/400?random=3",
+        "https://picsum.photos/100/80?random=31",
+        "https://picsum.photos/100/80?random=32"
+      ]
     }
   ]
 }
